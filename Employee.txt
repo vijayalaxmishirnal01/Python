@@ -1,0 +1,14 @@
+1	vijay
+22	Manager	800000	1	vijay	23	Manager	80000
+1	viju	23	Team Leader	650000
+1	vijayalaxmi
+26	Manager	90000	2	vinayak
+25	Team Leader	65000	3	Purushottam
+24	Assistant	25000	1	fdf
+33	dfdhh	3222	1	vdv
+2	sdvsd	325	2	asff
+33	dstgewr	6221	1	vi
+23	hdf	2251320	1	vijayalaxmi
+21	Manager	80000	2	vinayak
+24	Programer	65000	3	Purushottam
+23	Team Leader	25000	

@@ -1,0 +1,11 @@
+nos=(10,20,30,40,50,60,70)
+no=nos[-4]
+no1=nos[3:5]
+no2=nos[:4]
+no3=nos.count(10)
+no4=nos.index(50)
+print(no)
+print(no1)
+print(no2)
+print(no3)
+print(no4)
